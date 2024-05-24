@@ -1,0 +1,42 @@
+<!-- Index
+1-Head
+2-Body
+    2.1-Header
+    2.2-Main (carousel)
+    
+    2.14-Footer
+    2.15-Modal
+    2.16-JS -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="Description" content="This is Counter APP">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pallindrome Checker</title>
+        <link rel="stylesheet" href="Css/all.css">
+        <link rel="stylesheet" href="Css/Bootstrap Icon/bootstrap-icons.min.css">
+        <link rel="stylesheet" href="Css/fastbootstrap.min.css">
+        <link rel="stylesheet" href="Css/bootstrap.css">
+        <link rel="stylesheet" href="Css/style.css">
+    </head>
+
+    <body class="bg-body-tertiary">
+
+     <main>
+      <div class="container col-4 position-absolute top-50 start-50 translate-middle rounded bg-warning-subtle p-5">
+        <legend class="text-center my-2 text-dark fs-3 text-decoration-underline fw-bold">Pallindrome Application</legend>
+        <label for="word" class="form-label text-dark fs-5 mt-3">Check Pallindrome</label>
+        <input type="text" id="word" class="form-control" placeholder="Write word to check">
+        <button id="check" class="btn border border-danger border-2 btn-danger rounded-2 p-2 my-3 btn-red fs-3" onclick="CheckPal()" >Check</button>
+        <div id="result" class="text-center text-primary fw-bold"></div>
+      </div>
+     </main>
+
+      <!-- <script src="./js/fastbootstrap.js"></script> -->
+      <script src="./js/bootstrap.bundle.js"></script>
+      <script src="./js/script.js"></script>   
+
+    </body>
+</html>
