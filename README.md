@@ -1,7 +1,6 @@
 **This repository contains a Palindrome Checker web application built primarily with JavaScript, alongside HTML, CSS, and Bootstrap for the front-end interface.**
 
 ##This project demonstrates my ability to create simple yet effective web applications, showcasing my skills in:
-![Search Enabled](https://img.shields.io/badge/Search-Enabled-blue?logo=search)
 
 *JavaScript for core functionality*
 .....HTML for structuring the web content
@@ -20,5 +19,7 @@
     CSS: Provides custom styling.
     Bootstrap: Ensures a responsive and visually appealing interface.
 
+**Contact**
+ Email : mohamedworking2040@gmail.com
 
 **This project is a testament to my ability to build functional web applications with a focus on clean code and user experience.**
