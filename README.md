@@ -8,9 +8,9 @@
 - Bootstrap for responsive design and user interface components
 
 *Features*
-1- Real-time Palindrome Validation: Users can input text to instantly check if it's a palindrome.
-2- Responsive Design: The application is fully responsive, ensuring usability across various devices and screen sizes.
-3- User-friendly Interface: A clean and intuitive interface designed with Bootstrap.
+- Real-time Palindrome Validation: Users can input text to instantly check if it's a palindrome.
+- Responsive Design: The application is fully responsive, ensuring usability across various devices and screen sizes.
+- User-friendly Interface: A clean and intuitive interface designed with Bootstrap.
 
 
 *Technologies Used*
