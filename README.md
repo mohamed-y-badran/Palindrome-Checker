@@ -2,7 +2,7 @@
 
 ##This project demonstrates my ability to create simple yet effective web applications, showcasing my skills in:
 
-*JavaScript for core functionality*
+*JavaScript for core functionality* <br>
 .....HTML for structuring the web content
 .....CSS for styling and layout
 .....Bootstrap for responsive design and user interface components
